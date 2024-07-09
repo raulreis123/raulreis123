@@ -8,9 +8,10 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulreis123&show_icons=true&theme=dark) -->
 
-<br/><br/>
 ## Cursando bacharelado em ciências da computação (SPTECH)
-<br/><br/>
+<div align="center">
+<img height="200em" src="https://www.sptech.school/assets/images/logos/sptech_logo_negativa_1.png"/>
+</div>
 
 ## Skills
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)

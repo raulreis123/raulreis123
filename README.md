@@ -10,7 +10,7 @@
 
 ## Cursando bacharelado em ciências da computação (SPTECH)
 <div align="center">
-<img height="150em" width="200em" src="https://www.sptech.school/assets/images/logos/sptech_logo_negativa_1.png"/>
+<img height="150em" src="https://www.sptech.school/assets/images/logos/sptech_logo_negativa_1.png"/>
 </div>
 
 ## Skills
